@@ -38,10 +38,18 @@
 
 ---
 
+# 🌟 Open Source
+
+* Contributor at GirlScript Summer of Code (GSSoC)
+* Contributed to multiple open-source repositories
+* Active participant in community-driven development
+
+---
+
 # 📊 GitHub Stats
 
-![Sonika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonikareddyS\&show_icons=true)
+![Sonika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonikareddyS\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonikareddyS\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonikareddyS\&layout=compact\&theme=tokyonight)
 
 ---
