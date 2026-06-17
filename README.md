@@ -1,18 +1,21 @@
 # 👋 About Me
 
-* 🎓 Information Science Engineering Student
-* 💻 Frontend Developer
-* 🌱 Exploring AI/ML & AWS Cloud Technologies
-* 🧠 Solving DSA using Java
-* 📍 Bengaluru, India
+🎓 Information Science Engineering Student
+
+💻 Frontend Developer
+
+🌱 Exploring AI/ML & AWS Cloud Technologies
+
+🧠 Solving DSA using Java
+
+📍 Bengaluru, India
 
 ---
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/sonikareddys/)
-
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square\&logo=gmail)](mailto:sonikavenkatreddy715@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sonikareddys/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sonikavenkatreddy715@gmail.com)
 
 ---
 
@@ -43,5 +46,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonikareddyS\&show_icons=true\&theme=tokyonight\&hide=contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonikareddyS\&layout=compact\&theme=tokyonight)
-
----
