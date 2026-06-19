@@ -4,7 +4,7 @@
 
 💻 Frontend Developer
 
-🌱 Exploring AI/ML & AWS Cloud Technologies
+🌱 Exploring AWS Cloud Technologies
 
 🧠 Solving DSA using Java
 
