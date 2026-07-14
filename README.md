@@ -41,8 +41,4 @@
 
 ---
 
-# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonikareddyS\&show_icons=true\&theme=tokyonight\&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonikareddyS\&layout=compact\&theme=tokyonight)
