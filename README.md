@@ -2,7 +2,7 @@
 
 🎓 Information Science Engineering Student
 
-💻 Frontend Developer
+💻 MERN Stack
 
 🌱 Exploring AWS Cloud Technologies
 
